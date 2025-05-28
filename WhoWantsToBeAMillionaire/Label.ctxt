@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\n\ \u0395\u03BC\u03C6\u03B1\u03BD\u03AF\u03B6\u03B5\u03B9\ \u03C0\u03C1\u03BF\u03C3\u03B1\u03C1\u03BC\u03BF\u03C3\u03BC\u03AD\u03BD\u03BF\ \u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03BF\ \u03C3\u03C4\u03B7\u03BD\ \u03BF\u03B8\u03CC\u03BD\u03B7.\n\ \u03A7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03B5\u03AF\u03C4\u03B1\u03B9\ \u03B3\u03B9\u03B1\ \u03C4\u03AF\u03C4\u03BB\u03BF\u03C5\u03C2,\ \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2,\ \u03BF\u03B4\u03B7\u03B3\u03AF\u03B5\u03C2\ \u03BA\u03B1\u03B9\ \u03B1\u03C0\u03B1\u03BD\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2.\n\ @author\ Sidiraki\ Eleni\ Msc\ in\ Applied\ Informatics\ 2025\n
+comment1.params=text\ fontSize
+comment1.target=Label(java.lang.String,\ int)
+comment2.params=text\ fontSize\ textColor\ bgColor
+comment2.target=Label(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment3.params=text\ fontSize\ textColor\ bgColor\ fontFamily\ bold
+comment3.target=Label(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ java.lang.String,\ boolean)
+comment4.params=text
+comment4.target=void\ setValue(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getValue()
+numComments=6
