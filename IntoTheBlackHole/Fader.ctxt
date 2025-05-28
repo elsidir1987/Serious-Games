@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fader
+comment0.text=\n\ \u0393\u03C1\u03B1\u03C6\u03B9\u03BA\u03CC\ \u03B5\u03C6\u03AD\ fade-in/fade-out\ \u03BA\u03B1\u03C4\u03AC\ \u03C4\u03B7\u03BD\ \u03AD\u03BD\u03B1\u03C1\u03BE\u03B7\ \u03B5\u03C0\u03B9\u03C0\u03AD\u03B4\u03C9\u03BD.\n\ \n\ @Author\ Sidiraki\ Eleni,Serious\ Game\ in\ Master\ in\ Applied\ Informatics\n\ @version\ 1.0\ 2025\n
+comment1.params=
+comment1.target=Fader()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=alpha
+comment3.target=void\ setImageAlpha(int)
+comment4.params=
+comment4.target=void\ fadeIn()
+numComments=5

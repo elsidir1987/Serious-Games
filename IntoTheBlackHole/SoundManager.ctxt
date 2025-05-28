@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\n\ \u039A\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\ \u03B4\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7\ \u03C4\u03B7\u03C2\ \u03BC\u03BF\u03C5\u03C3\u03B9\u03BA\u03AE\u03C2\ \u03C5\u03C0\u03CC\u03BA\u03C1\u03BF\u03C5\u03C3\u03B7\u03C2\ \u03B3\u03B9\u03B1\ \u03CC\u03BB\u03B5\u03C2\ \n\ \u03C4\u03B9\u03C2\ \u03BF\u03B8\u03CC\u03BD\u03B5\u03C2/\u03B5\u03C0\u03AF\u03C0\u03B5\u03B4\u03B1.\n\ \n\ Author\ Sidiraki\ Eleni,Serious\ Game\ in\ Master\ in\ Applied\ Informatics\n\ @version\ 1.0\ 2025\n
+comment1.params=filename\ volume
+comment1.target=void\ playLoop(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=
+comment3.target=void\ playVictoryMusic()
+comment4.params=
+comment4.target=void\ stopAll()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HUD
+comment0.text=\n\ \u0395\u03BC\u03C6\u03B1\u03BD\u03AF\u03B6\u03B5\u03B9\ \u03C4\u03BF\ \u03C3\u03BA\u03BF\u03C1\ \u03BA\u03B1\u03B9\ \u03C4\u03B9\u03C2\ \u03B6\u03C9\u03AD\u03C2\ \u03C4\u03BF\u03C5\ \u03C0\u03B1\u03AF\u03BA\u03C4\u03B7\ \u03C3\u03C4\u03B7\u03BD\ \u03BF\u03B8\u03CC\u03BD\u03B7.\n\ \n\ @Author\ Sidiraki\ Eleni,Serious\ Game\ in\ Master\ in\ Applied\ Informatics\n\ @version\ 1.0\ 2025\n
+comment1.params=scoreCounter
+comment1.target=HUD(Counter)
+comment2.params=scoreCounter\ lives
+comment2.target=HUD(Counter,\ int)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=value
+comment4.target=void\ addScore(int)
+comment5.params=
+comment5.target=void\ loseLife()
+comment6.params=
+comment6.target=int\ getLives()
+comment7.params=
+comment7.target=int\ getScore()
+numComments=8

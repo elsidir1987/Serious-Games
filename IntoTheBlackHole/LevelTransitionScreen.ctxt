@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LevelTransitionScreen
+comment0.text=\n\ \u0395\u03BD\u03B4\u03B9\u03AC\u03BC\u03B5\u03C3\u03B7\ \u03BF\u03B8\u03CC\u03BD\u03B7\ \u03C0\u03BF\u03C5\ \u03B5\u03BC\u03C6\u03B1\u03BD\u03AF\u03B6\u03B5\u03C4\u03B1\u03B9\ \u03BC\u03B5\u03C4\u03AC\ \u03C4\u03B7\u03BD\ \n\ \u03BF\u03BB\u03BF\u03BA\u03BB\u03AE\u03C1\u03C9\u03C3\u03B7\ \u03C4\u03BF\u03C5\ \u03B5\u03C0\u03B9\u03C0\u03AD\u03B4\u03BF\u03C5\ 1.\n\ \n\ @Author\ Sidiraki\ Eleni,Serious\ Game\ in\ Master\ in\ Applied\ Informatics\n\ @version\ 1.0\ 2025\n
+comment1.params=scoreCounter\ lives
+comment1.target=LevelTransitionScreen(Counter,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

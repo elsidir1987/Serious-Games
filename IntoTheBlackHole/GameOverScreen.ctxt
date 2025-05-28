@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment0.text=\n\ \u039F\u03B8\u03CC\u03BD\u03B7\ \u03AE\u03C4\u03C4\u03B1\u03C2\ \u03CC\u03C4\u03B1\u03BD\ \u03BF\ \u03C0\u03B1\u03AF\u03BA\u03C4\u03B7\u03C2\ \u03C7\u03AC\u03BD\u03B5\u03B9\ \u03CC\u03BB\u03B5\u03C2\ \u03C4\u03B9\u03C2\ \u03B6\u03C9\u03AD\u03C2\ \u03AE\ \n\ \u03B5\u03BE\u03B1\u03BD\u03C4\u03BB\u03B5\u03AF\u03C4\u03B1\u03B9\ \u03BF\ \u03C7\u03C1\u03CC\u03BD\u03BF\u03C2.\n\ \n\ @Author\ Sidiraki\ Eleni,Serious\ Game\ in\ Master\ in\ Applied\ Informatics\n\ @version\ 1.0\ 2025\n
+comment1.params=score
+comment1.target=GameOverScreen(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

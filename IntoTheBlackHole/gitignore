@@ -1,0 +1,20 @@
+
+# Java class files
+*.class
+
+# Greenfoot log file
+greenfoot.log
+
+# IDE settings (π.χ. για NetBeans ή VS Code)
+nbproject/private/
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Backup files
+*~
+
+# Εικόνες ή ήχοι που δεν θέλεις να ανέβουν
+# π.χ. αν έχεις προσωρινά αρχεία:
+# tmp_*.png
